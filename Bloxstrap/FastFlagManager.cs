@@ -261,3 +261,93 @@ namespace Bloxstrap
         }
     }
 }
+{
+ "FIntDebugTextureManagerSkipMips": "8"
+}
+{
+  "DFIntMaxFrameBufferSize": "3",
+  "DFIntInterpolationDtLimitForLod": 5,
+  "DFIntInterpolationNumMechanismsPerTask": 2,
+  "DFIntInterpolationNumParallelTasks": 4,
+  "DFIntMaxInterpolationRecursionsBeforeCheck": 1,
+  "FIntInterpolationMaxDelayMSec": 25,
+  "DFIntInterpolationFrameRotVelocityThresholdMillionth": 1,
+  "DFIntInterpolationFrameVelocityThresholdMillionth": 1,
+  "DFIntInterpolationMinAssemblyCount": 1,
+  "DFIntNumFramesToKeepAfterInterpolation": 1,
+  "DFIntInterpolationNumMechanismsBatchSize": 1
+}
+{
+    "DFIntConnectionMTUSize": 900,
+    "FIntRakNetResendBufferArrayLength": 128,
+    "DFIntRakNetResendRttMultiple": 1,
+    "DFIntRaknetBandwidthPingSendEveryXSeconds": 1,
+    "DFIntCodecMaxOutgoingFrames": 10000,
+    "DFIntMaxProcessPacketsStepsAccumulated": 0,
+    "DFIntRakNetLoopMs": 1,
+    "DFIntWaitOnRecvFromLoopEndedMS": 100,
+    "DFIntWaitOnUpdateNetworkLoopEndedMS": 100,
+    "DFIntLargePacketQueueSizeCutoffMB": 1000,
+    "DFIntMaxProcessPacketsStepsPerCyclic": 5000,
+    "DFIntCodecMaxIncomingPackets": 100
+}
+{
+  "FStringDebugShowFlagState": "FIntInterpolationMaxDelayMSec, DFIntS2PhysicsSenderRate"8â€,
+}
+{
+  "FFlagSimIslandizerManager": "false",
+  "FFlagSimIslandizerManager": "false",
+  "DFIntS2PhysicsSenderRate": "8",
+  "DFFlagDebugVisualizationImprovements": "True",
+  "DFFlagDebugVisualizeAllPropertyChanges": "True",
+  "DFFlagDebugVisualizerTrackRotationPredictions": "True",
+  "DFFlagDebugEnableInterpolationVisualizer": "True"
+
+}
+{
+  "FFlagHandleAltEnterFullscreenManually": "False",
+  "FLogNetwork": "7",
+  "DFIntTaskSchedulerTargetFps": "90",
+  "DFFlagDisableDPIScale": "True",
+  "FIntRenderShadowIntensity": "0",
+  "FFlagDisablePostFx": "True",
+  "FIntDebugForceMSAASamples": "2",
+  "FFlagDebugGraphicsPreferD3D11": "True",
+  "FIntDebugTextureManagerSkipMips": "7",
+  "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
+  "DFIntTextureQualityOverride": "0",
+  "DFFlagTextureQualityOverrideEnabled": "True",
+  "FFlagDebugForceFutureIsBrightPhase3": "True",
+  "DFIntCanHideGuiGroupId": "32380007",
+  "FFlagFixGraphicsQuality": "True",
+  "FIntTerrainArraySliceSize": "0"
+}
+{
+  "FFlagSimIslandizerManager": "false",
+  "FFlagSimIslandizerManager": "false",
+  "DFIntS2PhysicsSenderRate": "1",
+  "DFFlagDebugVisualizationImprovements": "True",
+  "DFFlagDebugVisualizeAllPropertyChanges": "True",
+  "DFFlagDebugVisualizerTrackRotationPredictions": "True",
+  "DFFlagDebugEnableInterpolationVisualizer": "True"
+
+}
+
+{
+  "FFlagHandleAltEnterFullscreenManually": "False",
+  "FLogNetwork": "7",
+  "DFIntTaskSchedulerTargetFps": "90",
+  "DFFlagDisableDPIScale": "True",
+  "FIntRenderShadowIntensity": "0",
+  "FFlagDisablePostFx": "True",
+  "FIntDebugForceMSAASamples": "2",
+  "FFlagDebugGraphicsPreferD3D11": "True",
+  "FIntDebugTextureManagerSkipMips": "7",
+  "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
+  "DFIntTextureQualityOverride": "0",
+  "DFFlagTextureQualityOverrideEnabled": "True",
+  "FFlagDebugForceFutureIsBrightPhase3": "True",
+  "DFIntCanHideGuiGroupId": "32380007",
+  "FFlagFixGraphicsQuality": "True",
+  "FIntTerrainArraySliceSize": "0"
+}
